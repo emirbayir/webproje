@@ -2,11 +2,9 @@
 
 Benim Web Sitemde bulanan 3 ana başlıkla;
 
-► Anasayfa
-► Hakkında
-► Şehrim
-
-vardır.
+► Anasayfa,
+► Hakkında,
+► Şehrim,
 
 ► Hakkında;
 Hakkında kısmı benim özgeçişimi anlattığım bir kısımdır.
